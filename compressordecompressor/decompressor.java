@@ -13,7 +13,7 @@ import java.util.zip.GZIPInputStream;
 
 /**
  *
- * @author shivenduac
+ * @author bhagyesh
  */
 public class decompressor {
     public static void method(File file) throws IOException{
