@@ -6,7 +6,7 @@ package GUI;
 
 /**
  *
- * @author shivenduac
+ * @author bhagyesh
  */
 public class main {
     
