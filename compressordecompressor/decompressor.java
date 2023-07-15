@@ -36,7 +36,7 @@ public class decompressor {
     }
     
     public static void main(String[] args) throws IOException{
-        File path=new File("/Users/shivenduac/Downloads/Compressor/compressordecompressor/Compressedfile.gz");
+        File path=new File("/Users/bhagyesh/Downloads/Compressor/compressordecompressor/Compressedfile.gz");
         method(path);
         //System.out.print();
         
